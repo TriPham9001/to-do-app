@@ -1,4 +1,4 @@
-import About from "@/components/auth/home";
+import About from "@/components/to-do-app/home";
 
 export default function Home() {
   return (
